@@ -54,23 +54,20 @@
 
 ## 🚀 快速开始
 
-### 方式一：Zeabur 一键部署（推荐）
-
-点击页面顶部的 "Deploy on Zeabur" 按钮，即可免费一键部署属于你的导航站。
-
-### 方式二：其他云平台一键部署
+### 方式一：一键部署到云平台
 
 无需服务器，完全免费，一键即可部署：
 
 | 平台 | 类型 | 部署链接 |
 |------|------|----------|
+| **Zeabur** | Container (推荐) | [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/2Q624P) |
 | **Vercel** | Serverless | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/tony-wang1990/laowang-nav) |
 | **Netlify** | Serverless | [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tony-wang1990/laowang-nav) |
 | **Cloudflare Pages** | Edge Computing | [![Deploy to Cloudflare Pages](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?repository=https://github.com/tony-wang1990/laowang-nav) |
 | **Railway** | Container | [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/tony-wang1990/laowang-nav) |
 | **Render** | Container | [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tony-wang1990/laowang-nav) |
 
-### 方式三：Docker 部署
+### 方式二：Docker 部署
 
 ```bash
 docker run -d \
