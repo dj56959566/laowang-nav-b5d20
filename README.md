@@ -236,11 +236,11 @@ sections:
 
 ## 📚 文档
 
-- [快速开始](https://github.com/tony-wang1990/laowang-nav)
-- [配置指南](https://github.com/tony-wang1990/laowang-nav)
-- [主题定制](https://github.com/tony-wang1990/laowang-nav)
-- [部署文档](https://github.com/tony-wang1990/laowang-nav)
-- [常见问题](https://github.com/tony-wang1990/laowang-nav)
+- [快速开始](docs/quick-start.md)
+- [配置指南](docs/configuring.md)
+- [主题定制](docs/theming.md)
+- [部署文档](docs/deployment.md)
+- [常见问题](docs/troubleshooting.md)
 
 ---
 
