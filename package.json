@@ -19,7 +19,8 @@
     "build-and-start": "cross-env NODE_OPTIONS=--openssl-legacy-provider npm-run-all --parallel build start",
     "validate-config": "node services/config-validator",
     "health-check": "node services/healthcheck",
-    "dependency-audit": "npx improved-yarn-audit --ignore-dev-deps"
+    "dependency-audit": "npx improved-yarn-audit --ignore-dev-deps",
+    "sync": "node sync_nav.js"
   },
   "dependencies": {
     "@babel/core": "^7.0.0",
