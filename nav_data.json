@@ -250,7 +250,7 @@
         "url": "https://sublink.eooce.com",
         "logo_url": "https://img.icons8.com/color/96/link--v1.png",
         "custom_logo_path": null,
-        "desc": "��好用的订阅转换工具",
+        "desc": "最好用的订阅转换工具",
         "order": 0,
         "display_logo": "https://img.icons8.com/color/96/link--v1.png"
       },
@@ -1266,7 +1266,7 @@
         "url": "https://mihomo.party",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "Mihomo内核最受欢���的代理软件",
+        "desc": "Mihomo内���最受欢迎的代理软件",
         "order": 0,
         "display_logo": "https://mihomo.party/favicon.ico"
       },
@@ -1906,7 +1906,7 @@
         "id": 160,
         "menu_id": 6,
         "sub_menu_id": null,
-        "title": "���时邮箱",
+        "title": "临时邮箱",
         "url": "https://22.do/zh",
         "logo_url": "https://22.do/assets/images/logo.png",
         "custom_logo_path": null,
@@ -1922,7 +1922,7 @@
         "url": "https://dot.nyc.mn/my-domain",
         "logo_url": "https://dot.nyc.mn/wp-content/uploads/2024/09/nycmnicon-150x150.png",
         "custom_logo_path": null,
-        "desc": "免费二级域名(已取消免费)",
+        "desc": "免费二级域名(已取消���费)",
         "order": 0,
         "display_logo": "https://dot.nyc.mn/wp-content/uploads/2024/09/nycmnicon-150x150.png"
       },
@@ -2066,7 +2066,7 @@
         "url": "https://www.netlib.re",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "永久免费二级域名",
+        "desc": "��久免费二级域名",
         "order": 0,
         "display_logo": "https://www.netlib.re/favicon.ico"
       },
