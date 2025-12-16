@@ -1266,7 +1266,7 @@
         "url": "https://mihomo.party",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "Mihomo内��最受欢迎的代理软件",
+        "desc": "Mihomo内核最受欢迎的代理软件",
         "order": 0,
         "display_logo": "https://mihomo.party/favicon.ico"
       },
@@ -1922,7 +1922,7 @@
         "url": "https://dot.nyc.mn/my-domain",
         "logo_url": "https://dot.nyc.mn/wp-content/uploads/2024/09/nycmnicon-150x150.png",
         "custom_logo_path": null,
-        "desc": "免费二级域名(已取���免费)",
+        "desc": "免费二级域名(已取消免��)",
         "order": 0,
         "display_logo": "https://dot.nyc.mn/wp-content/uploads/2024/09/nycmnicon-150x150.png"
       },
@@ -1982,7 +1982,7 @@
         "url": "https://zabc.net/dashboard",
         "logo_url": "https://zoneabc.net/logo.svg",
         "custom_logo_path": null,
-        "desc": "免���zabc.net二级域名(不可托管cloudflared)",
+        "desc": "免费zabc.net二级域名(不可托管cloudflared)",
         "order": 0,
         "display_logo": "https://zoneabc.net/logo.svg"
       },
