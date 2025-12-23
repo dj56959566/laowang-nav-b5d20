@@ -78,13 +78,13 @@
         "id": 7,
         "menu_id": 1,
         "sub_menu_id": null,
-        "title": "节点订阅器",
-        "url": "https://eooce.qzz.io",
-        "logo_url": "https://img.icons8.com/color/96/link--v1.png",
+        "title": "指纹浏览器",
+        "url": "https://www.adspower.net/share/laowang",
+        "logo_url": "https://www.adspower.net/favicon.svg",
         "custom_logo_path": null,
-        "desc": "自用节点订阅器",
+        "desc": "指纹浏览器",
         "order": 0,
-        "display_logo": "https://img.icons8.com/color/96/link--v1.png"
+        "display_logo": "https://www.adspower.net/favicon.svg"
       },
       {
         "id": 8,
@@ -250,7 +250,7 @@
         "url": "https://sublink.eooce.com",
         "logo_url": "https://img.icons8.com/color/96/link--v1.png",
         "custom_logo_path": null,
-        "desc": "��好用的订阅转换工具",
+        "desc": "最好用的订阅转换工具",
         "order": 0,
         "display_logo": "https://img.icons8.com/color/96/link--v1.png"
       },
@@ -1266,7 +1266,7 @@
         "url": "https://mihomo.party",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "Mihomo内核最��欢迎的代理软件",
+        "desc": "Mihomo���核最受欢迎的代理软件",
         "order": 0,
         "display_logo": "https://mihomo.party/favicon.ico"
       },
@@ -1858,7 +1858,7 @@
         "id": 156,
         "menu_id": 6,
         "sub_menu_id": null,
-        "title": "风���临时邮箱",
+        "title": "风车临时邮箱",
         "url": "https://mail.xoxome.online/dashboard",
         "logo_url": "https://mail.xoxome.online/logo.png",
         "custom_logo_path": null,
