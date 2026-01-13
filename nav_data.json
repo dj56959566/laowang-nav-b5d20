@@ -250,7 +250,7 @@
         "url": "https://sublink.eooce.com",
         "logo_url": "https://img.icons8.com/color/96/link--v1.png",
         "custom_logo_path": null,
-        "desc": "最���用的订阅转换工具",
+        "desc": "最好用���订阅转换工具",
         "order": 0,
         "display_logo": "https://img.icons8.com/color/96/link--v1.png"
       },
@@ -2182,6 +2182,18 @@
         "desc": "icon图标",
         "order": 0,
         "display_logo": "https://icon-sets.iconify.design/favicon.svg"
+      },
+      {
+        "id": 289,
+        "menu_id": 11,
+        "sub_menu_id": null,
+        "title": "美国免税州地址生成",
+        "url": "https://usaddressgen.com/tax-free-address/",
+        "logo_url": "",
+        "custom_logo_path": null,
+        "desc": null,
+        "order": 0,
+        "display_logo": "https://usaddressgen.com/tax-free-address/favicon.ico"
       }
     ]
   }
