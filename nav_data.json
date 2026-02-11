@@ -250,7 +250,7 @@
         "url": "https://sublink.eooce.com",
         "logo_url": "https://img.icons8.com/color/96/link--v1.png",
         "custom_logo_path": null,
-        "desc": "最好用���订阅转换工具",
+        "desc": "��好用的订阅转换工具",
         "order": 0,
         "display_logo": "https://img.icons8.com/color/96/link--v1.png"
       },
@@ -688,7 +688,7 @@
         "id": 33,
         "menu_id": 3,
         "sub_menu_id": null,
-        "title": "���骨文云",
+        "title": "甲骨文云",
         "url": "https://cloud.oracle.com",
         "logo_url": "",
         "custom_logo_path": null,
@@ -1266,7 +1266,7 @@
         "url": "https://mihomo.party",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "Mihomo内核最受欢迎的代理软件",
+        "desc": "Mihomo内核最���欢迎的代理软件",
         "order": 0,
         "display_logo": "https://mihomo.party/favicon.ico"
       },
