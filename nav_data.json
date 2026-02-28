@@ -250,7 +250,7 @@
         "url": "https://sublink.eooce.com",
         "logo_url": "https://img.icons8.com/color/96/link--v1.png",
         "custom_logo_path": null,
-        "desc": "最��用的订阅转换工具",
+        "desc": "最好用的订阅转换工具",
         "order": 0,
         "display_logo": "https://img.icons8.com/color/96/link--v1.png"
       },
@@ -969,13 +969,13 @@
         "id": 212,
         "menu_id": 8,
         "sub_menu_id": 1,
-        "title": "Axsoter",
-        "url": "https://free.axsoter.com",
-        "logo_url": "https://www.axsoter.com/assets/img/icon.webp",
+        "title": "Daki",
+        "url": "https://dash.daki.cc/",
+        "logo_url": "",
         "custom_logo_path": null,
         "desc": "游戏机",
         "order": 0,
-        "display_logo": "https://www.axsoter.com/assets/img/icon.webp"
+        "display_logo": "https://dash.daki.cc/favicon.ico"
       },
       {
         "id": 213,
@@ -1197,8 +1197,8 @@
         "id": 273,
         "menu_id": 8,
         "sub_menu_id": 1,
-        "title": "Altr",
-        "url": "https://console.altr.cc/dashboard",
+        "title": "Altare",
+        "url": "https://altare.sh/dashboard",
         "logo_url": "https://i.imgur.com/EZep3AC.png",
         "custom_logo_path": null,
         "desc": "多地区游戏机",
@@ -1266,7 +1266,7 @@
         "url": "https://mihomo.party",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "Mihomo内核最受欢���的代理软件",
+        "desc": "Mihomo内核最���欢迎的代理软件",
         "order": 0,
         "display_logo": "https://mihomo.party/favicon.ico"
       },
