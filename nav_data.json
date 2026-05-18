@@ -507,7 +507,7 @@
         "url": "https://copilot.microsoft.com",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "微软旗下Ai",
+        "desc": "微软旗��Ai",
         "order": 0,
         "display_logo": "https://copilot.microsoft.com/favicon.ico"
       },
@@ -2006,7 +2006,7 @@
         "url": "https://zabc.net/dashboard",
         "logo_url": "https://zoneabc.net/logo.svg",
         "custom_logo_path": null,
-        "desc": "免费zabc.net二级域名(不可托管cloudflared)",
+        "desc": "免费zabc.net二级域名(��可托管cloudflared)",
         "order": 0,
         "display_logo": "https://zoneabc.net/logo.svg"
       },
