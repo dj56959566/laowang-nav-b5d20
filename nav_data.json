@@ -2006,7 +2006,7 @@
         "url": "https://zabc.net/dashboard",
         "logo_url": "https://zoneabc.net/logo.svg",
         "custom_logo_path": null,
-        "desc": "免费zabc.net二级域名(不可��管cloudflared)",
+        "desc": "免费zabc.net二级域名(���可托管cloudflared)",
         "order": 0,
         "display_logo": "https://zoneabc.net/logo.svg"
       },
@@ -2090,7 +2090,7 @@
         "url": "https://www.netlib.re",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "永久免费二级域名",
+        "desc": "永久免费二级域��",
         "order": 0,
         "display_logo": "https://www.netlib.re/favicon.ico"
       },
