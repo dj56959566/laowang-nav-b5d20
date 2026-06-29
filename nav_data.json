@@ -224,11 +224,11 @@
         "sub_menu_id": null,
         "title": "Nodeloc",
         "url": "https://www.nodeloc.com",
-        "logo_url": "https://s.rmimg.com/optimized/1X/660236e67b776cefea8b2df2276659af2f4eda2a_2_32x32.png",
+        "logo_url": "https://www.nodeloc.com/uploads/default/original/3X/d/2/d2dbcb2628506da9299792c1d422c58c0f185528.svg",
         "custom_logo_path": null,
         "desc": "Nodeloc论坛",
         "order": 0,
-        "display_logo": "https://s.rmimg.com/optimized/1X/660236e67b776cefea8b2df2276659af2f4eda2a_2_32x32.png"
+        "display_logo": "https://www.nodeloc.com/uploads/default/original/3X/d/2/d2dbcb2628506da9299792c1d422c58c0f185528.svg"
       },
       {
         "id": 20,
@@ -1213,7 +1213,7 @@
         "url": "https://skybots.tech/dashboard/mes-bots",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "法国ISPnodejs玩��",
+        "desc": "法���ISPnodejs玩具",
         "order": 0,
         "display_logo": "https://skybots.tech/dashboard/mes-bots/favicon.ico"
       },
@@ -2006,7 +2006,7 @@
         "url": "https://zabc.net/dashboard",
         "logo_url": "https://zoneabc.net/logo.svg",
         "custom_logo_path": null,
-        "desc": "免费zabc.net二级域名(不��托管cloudflared)",
+        "desc": "免费zabc.net二级域名(不可托管cloudflared)",
         "order": 0,
         "display_logo": "https://zoneabc.net/logo.svg"
       },
@@ -2090,7 +2090,7 @@
         "url": "https://www.netlib.re",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "永久免费二级域名",
+        "desc": "永久免费二级域���",
         "order": 0,
         "display_logo": "https://www.netlib.re/favicon.ico"
       },
