@@ -138,7 +138,7 @@
         "id": 12,
         "menu_id": 1,
         "sub_menu_id": null,
-        "title": "nezha面板",
+        "title": "nezha���板",
         "url": "https://ssss.nyc.mn",
         "logo_url": "https://nezha.wiki/logo.png",
         "custom_logo_path": null,
@@ -1213,7 +1213,7 @@
         "url": "https://skybots.tech/dashboard/mes-bots",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "法国ISPnodejs���具",
+        "desc": "法国ISPnodejs玩��",
         "order": 0,
         "display_logo": "https://skybots.tech/dashboard/mes-bots/favicon.ico"
       },
@@ -2006,7 +2006,7 @@
         "url": "https://zabc.net/dashboard",
         "logo_url": "https://zoneabc.net/logo.svg",
         "custom_logo_path": null,
-        "desc": "免费zabc.net二级域名(不可托管cloudflared)",
+        "desc": "免费zabc.net二级域名(不可��管cloudflared)",
         "order": 0,
         "display_logo": "https://zoneabc.net/logo.svg"
       },
