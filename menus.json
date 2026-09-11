@@ -78,6 +78,13 @@
     "id": 11,
     "name": "Dev",
     "order": 8,
-    "subMenus": []
+    "subMenus": [
+      {
+        "id": 8,
+        "parent_id": 11,
+        "name": "中转站",
+        "order": 1
+      }
+    ]
   }
 ]
