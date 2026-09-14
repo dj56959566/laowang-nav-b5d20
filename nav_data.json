@@ -2350,6 +2350,18 @@
         "desc": null,
         "order": 0,
         "display_logo": "https://router.bynara.id/favicon.ico"
+      },
+      {
+        "id": 313,
+        "menu_id": 11,
+        "sub_menu_id": 8,
+        "title": "NVIDIA",
+        "url": "https://build.nvidia.com/models",
+        "logo_url": "",
+        "custom_logo_path": null,
+        "desc": null,
+        "order": 0,
+        "display_logo": "https://build.nvidia.com/models/favicon.ico"
       }
     ]
   }
