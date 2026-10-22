@@ -1,21 +1,5 @@
 [
   {
-    "name": "",
-    "items": []
-  },
-  {
-    "name": "",
-    "items": []
-  },
-  {
-    "name": "",
-    "items": []
-  },
-  {
-    "name": "",
-    "items": []
-  },
-  {
     "name": "Home",
     "items": [
       {
@@ -1229,7 +1213,7 @@
         "url": "https://skybots.tech/dashboard/mes-bots",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "法国ISPnodejs玩具",
+        "desc": "法国ISPnodejs玩��",
         "order": 0,
         "display_logo": "https://skybots.tech/dashboard/mes-bots/favicon.ico"
       },
@@ -1974,7 +1958,7 @@
         "url": "https://www.hidoha.net",
         "logo_url": "https://www.hidoha.net/themes/huraga/assets/favicon.ico",
         "custom_logo_path": null,
-        "desc": "���费二级域名",
+        "desc": "免费二级域名",
         "order": 0,
         "display_logo": "https://www.hidoha.net/themes/huraga/assets/favicon.ico"
       },
@@ -2022,7 +2006,7 @@
         "url": "https://zabc.net/dashboard",
         "logo_url": "https://zoneabc.net/logo.svg",
         "custom_logo_path": null,
-        "desc": "免费zabc.net二级域名(不可托管cloudflared)",
+        "desc": "免费zabc.net二级域名(���可托管cloudflared)",
         "order": 0,
         "display_logo": "https://zoneabc.net/logo.svg"
       },
@@ -2106,7 +2090,7 @@
         "url": "https://www.netlib.re",
         "logo_url": "",
         "custom_logo_path": null,
-        "desc": "永久免费二级域名",
+        "desc": "永久免费二级域��",
         "order": 0,
         "display_logo": "https://www.netlib.re/favicon.ico"
       },
@@ -2404,9 +2388,5 @@
         "display_logo": "https://cloud.doulor.cn/d/favicon.ico"
       }
     ]
-  },
-  {
-    "name": "zzz_verify72_probe_f589ab3q",
-    "items": []
   }
 ]
