@@ -250,7 +250,7 @@
         "url": "https://sublink.eooce.com",
         "logo_url": "https://img.icons8.com/color/96/link--v1.png",
         "custom_logo_path": null,
-        "desc": "最好��的订阅转换工具",
+        "desc": "最���用的订阅转换工具",
         "order": 0,
         "display_logo": "https://img.icons8.com/color/96/link--v1.png"
       },
@@ -2006,7 +2006,7 @@
         "url": "https://zabc.net/dashboard",
         "logo_url": "https://zoneabc.net/logo.svg",
         "custom_logo_path": null,
-        "desc": "免费zabc.net二级域名(不��托管cloudflared)",
+        "desc": "免费zabc.net二级域名(不可托管cloudflared)",
         "order": 0,
         "display_logo": "https://zoneabc.net/logo.svg"
       },
@@ -2141,6 +2141,18 @@
         "desc": "提供域名托管服务，支持根域名cname",
         "order": 0,
         "display_logo": "https://vps8.zz.cd/favicon.ico"
+      },
+      {
+        "id": 321,
+        "menu_id": 6,
+        "sub_menu_id": null,
+        "title": "indevs.in域名",
+        "url": "https://domain.stackryze.com/my-domains",
+        "logo_url": "",
+        "custom_logo_path": null,
+        "desc": null,
+        "order": 0,
+        "display_logo": "https://domain.stackryze.com/my-domains/favicon.ico"
       }
     ]
   },
